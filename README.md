@@ -1,2 +1,6 @@
 # git_shit
-A repo of git scripts and various git helpers.
+To install all the git scripts run. This will create a symlink from ~/bin/<script> to <cwd>/<script>
+
+```
+make install
+```
